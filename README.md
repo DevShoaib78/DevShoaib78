@@ -71,44 +71,44 @@
 ## 📦 Everything else
 
 <details>
-<summary><b>Fifteen more live products.</b> An AI symptom checker, a semiconductor company, a pet adoption app, and a few I like more than the ones above</summary>
+<summary><b>Fifteen more live products.</b> Click to reveal</summary>
 
 <br>
 
 **Products and platforms**
 
-| Project | | |
-|---|---|---|
-| **Ambliq Solutions** | AI automation for service businesses | [ambliqsolutions.com](https://www.ambliqsolutions.com) |
-| **Clinexa by MakeBit** | AI powered symptom analysis. Agentic, explainable, multilingual | [Live](https://clinexa-by-makebit.vercel.app/) |
-| **NexBid** | Construction tender discovery platform | [nexbid.netlify.app](https://nexbid.netlify.app/) |
-| **Chipzenix** | Semiconductor engineering company site | [chipzenix.vercel.app](https://chipzenix.vercel.app) |
-| **PetSwipe** | Swipe to match pet adoption app | [petswipe-petmatch.netlify.app](https://petswipe-petmatch.netlify.app) |
+| Project | What it is | Built with | Status |
+|---|---|---|---|
+| **Ambliq Solutions** | AI automation for service businesses | Next.js · GSAP | [Live](https://www.ambliqsolutions.com) |
+| **Clinexa by MakeBit** | AI powered symptom analysis. Agentic, explainable, multilingual | React · Vite · Gemini | [Live](https://clinexa-by-makebit.vercel.app/) |
+| **NexBid** | Construction tender discovery platform | React · Vite · Supabase | [Live](https://nexbid.netlify.app/) |
+| **Chipzenix** | Semiconductor engineering company site | Next.js · GSAP | [Live](https://chipzenix.vercel.app) |
+| **PetSwipe** | Swipe to match pet adoption app | React · Vite · Supabase | [Live](https://petswipe-petmatch.netlify.app) |
 
 **Brands and storefronts**
 
-| Project | | |
-|---|---|---|
-| **BioReform** | Sustainable packaging, with motion led scrolling | [bioreform.netlify.app](https://bioreform.netlify.app) |
-| **Draftroom** | Visual storytelling studio | [draftroom.biz](https://draftroom.biz) |
-| **Thrivebar** | Wellness brand site | [thrivebar.netlify.app](https://thrivebar.netlify.app) |
-| **MakeBit** | Web development and automation studio | [makebitv2.netlify.app](https://makebitv2.netlify.app/) |
+| Project | What it is | Built with | Status |
+|---|---|---|---|
+| **BioReform** | Sustainable packaging, with motion led scrolling | React · Vite · Framer Motion | [Live](https://bioreform.netlify.app) |
+| **Draftroom** | Visual storytelling studio | React · Vite · Three.js | [Live](https://draftroom.biz) |
+| **Thrivebar** | Wellness brand site | React · Vite · Supabase | [Live](https://thrivebar.netlify.app) |
+| **MakeBit** | Web development and automation studio | React · Vite · Three.js · GSAP | [Live](https://makebitv2.netlify.app/) |
 
 **Community**
 
-| Project | | |
-|---|---|---|
-| **Tahreek Muslim Shabban** | Website for a community organisation empowering Muslim communities in Hyderabad | [tahreekmuslimshabban.org](https://tahreekmuslimshabban.org) |
-| **Hyderabad Hustlers** | A platform covering hustlers from Hyderabad | [hyderabadhustlers.framer.website](https://hyderabadhustlers.framer.website/) |
+| Project | What it is | Built with | Status |
+|---|---|---|---|
+| **Tahreek Muslim Shabban** | Website for a community organisation empowering Muslim communities in Hyderabad | HTML · SCSS · Bootstrap | [Live](https://tahreekmuslimshabban.org) |
+| **Hyderabad Hustlers** | A platform covering hustlers from Hyderabad | Framer | [Live](https://hyderabadhustlers.framer.website/) |
 
 **Built for others**
 
-| Project | | |
-|---|---|---|
-| **Shoaib Khan** | Content creator and entrepreneur | [beingashoaib.com](https://beingashoaib.com) |
-| **Sayeeda Jabri** | Co-founder, Hyderabad Hustlers | [sayeedajabri.com](https://sayeedajabri.com) |
-| **Umar Shoaib** | A developer | [umarportfolio-chi.vercel.app](https://umarportfolio-chi.vercel.app/) |
-| **OneThing Studio** | Our Studio. MVPs in 1 to 4 weeks | [onething.studio](https://onething.studio) |
+| Project | What it is | Built with | Status |
+|---|---|---|---|
+| **Shoaib Khan** | Content creator and entrepreneur | Next.js · GSAP | [Live](https://beingashoaib.com) |
+| **Sayeeda Jabri** | Co-founder, Hyderabad Hustlers | React · GSAP · Framer Motion | [Live](https://sayeedajabri.com) |
+| **Umar Shoaib** | A developer | Next.js · Gemini · Firebase | [Live](https://umarportfolio-chi.vercel.app/) |
+| **OneThing Studio** | Our Studio. MVPs in 1 to 4 weeks | React · Vite · Framer Motion | [Live](https://onething.studio) |
 </details>
 
 <br>
