@@ -5,24 +5,28 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammedshoaibchoudry"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=f97316"></a>
+  <a href="https://www.linkedin.com/in/mohammedshoaibchoudry"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y5NzMxNiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+"></a>
   &nbsp;
-  <a href="https://x.com/mdshoaibchoudry"><img alt="X" src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=f97316"></a>
+  <a href="https://x.com/mdshoaibchoudry"><img alt="X, formerly Twitter" src="https://img.shields.io/badge/X%20(Formerly%20Twitter)-0a0a0a?style=for-the-badge&logo=x&logoColor=f97316"></a>
   &nbsp;
   <a href="https://www.instagram.com/shoaibchoudry.md"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=f97316"></a>
+  &nbsp;
+  <a href="https://medium.com/@ShoaibChoudry"><img alt="Medium" src="https://img.shields.io/badge/Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=f97316"></a>
 </p>
 
 <br>
 
-<h3>Building tech products and MVPs from the get go: the interface, the code underneath, and the deployment that puts them in front of people.</h3>
+<h3 align="center">Building tech products and MVPs from the get go: the interface,<br>the code underneath, and the deployment that puts them in front of people.</h3>
 
 <br>
 
 <div align="center">
 
-### Over twenty are live right now
+<h2>Over twenty are live right now!</h2>
 
-**across marketplaces, cybersecurity, logistics, AI and community platforms**
+**Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms**
+
+<img src="https://img.shields.io/badge/-f97316?style=flat-square&label=&labelColor=f97316" height="3" width="120" alt="">
 
 </div>
 
@@ -140,6 +144,16 @@ learning the framework from November 2023 onward, each committed on the day it w
 
 **Ship it**
 `Vercel` `Netlify` `Git` `GitHub Actions` `Figma`
+
+<br>
+
+## Writing
+
+**[SEQUOIA's Investment Thesis, DECODED](https://medium.com/@ShoaibChoudry/sequoias-investment-thesis-decoded-499fdcc30f8d)**
+&nbsp;·&nbsp; <sub>Medium, June 2024</sub>
+
+<sub>A breakdown of how one of the world's most consequential venture firms decides what to back,
+and what that says about the ideas worth building.</sub>
 
 <br>
 
