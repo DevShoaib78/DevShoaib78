@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-light.svg">
-  <img alt="Konichiwa, I am Mohammed Shoaib Choudry" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-light.svg?v=2">
+  <img alt="Konichiwa, I am Mohammed Shoaib Choudry" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=2" width="100%">
 </picture>
 
 <p align="center">
@@ -21,9 +21,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-light.svg">
-  <img alt="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-light.svg?v=2">
+  <img alt="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=2" width="100%">
 </picture>
 
 <br>
