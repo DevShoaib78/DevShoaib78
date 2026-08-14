@@ -28,7 +28,7 @@
 
 <br>
 
-## Co-founded
+## Ventures
 
 <table>
   <tr>
