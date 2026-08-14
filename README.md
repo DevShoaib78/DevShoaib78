@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Shoaib Choudry — building products for web and mobile" src="./assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-light.svg">
+  <img alt="Shoaib Choudry — building products for web and mobile" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg" width="100%">
 </picture>
 
 <br>
