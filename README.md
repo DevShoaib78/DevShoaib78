@@ -61,7 +61,7 @@
 | **FIXIT** | Home services platform for Canada. Customer, partner and admin apps in one Flutter monorepo | Flutter · Dart · Riverpod | In development |
 | **Eat Good Club** | Health led food brand on a mission to make good food the new normal | Next.js · GSAP · Tailwind | [Live](https://www.eatgoodclub.com) |
 | **Skinature** | Premium natural skincare brand. A motion led storefront sitting on a full Supabase backend | Next.js · Supabase · Framer Motion | [Live](https://www.skinature.org) |
-| **Souq E Deccan** | Hyderabad's first online visual booking system for an expo, built out into a multi vendor marketplace with a full backend | Next.js · Supabase | [Live](https://www.souqedeccan.com/) |
+| **Souq-E-Deccan** | Hyderabad's first online visual booking system for an expo, built out into a multi vendor marketplace with a full backend | Next.js · Supabase | [Live](https://www.souqedeccan.com/) |
 | **ScrapKart** | India's industrial and retail scrap marketplace, B2B and consumer sides both | Next.js · TypeScript | [B2B](https://b2b.scrapkart.app) · [Retail](https://scrapkart.app) |
 | **Brandqraft** | Branding and digital marketing studio | Next.js · Framer Motion | [Live](https://brandqraft.co) |
 | **CyFi** | Bilingual (EN/AR) product site for a cybersecurity firm based in Saudi Arabia | React · Vite · i18next | [Live](https://cyfi.sa) |
