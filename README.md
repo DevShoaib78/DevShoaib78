@@ -71,7 +71,7 @@
 ## 📦 Everything else
 
 <details>
-<summary><b>Fifteen more shipped products</b>, click to expand</summary>
+<summary><b>Fifteen more live products.</b> An AI symptom checker, a semiconductor company, a pet adoption app, and a few I like more than the ones above</summary>
 
 <br>
 
