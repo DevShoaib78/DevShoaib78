@@ -53,7 +53,7 @@
 
 <br>
 
-## Selected work
+## The good stuff
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
