@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 268" width="900" height="268" role="img" aria-label="Konichiwa, I am Mohammed Shoaib Choudry, techpreneur and product builder">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 268" width="900" height="268" role="img" aria-label="Konichiwa, I am Mohammed Shoaib Choudry, techpreneur, product builder and explorer">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#f97316"/>
       <stop offset="100%" stop-color="#fdba74"/>
     </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#f97316" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#fdba74"/>
+    </linearGradient>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f97316" stop-opacity="0.55"/>
+      <stop offset="0%" stop-color="#f97316" stop-opacity="0.5"/>
       <stop offset="100%" stop-color="#f97316" stop-opacity="0"/>
     </linearGradient>
     <style>
@@ -20,16 +24,25 @@
       .blink { animation:blink 1.2s steps(1) 1.3s infinite; }
       @keyframes blink { 0%,55%{opacity:1} 56%,100%{opacity:0} }
 
-      .pulse { animation:pulse 2.6s ease-in-out infinite; }
-      .p2{animation-delay:.35s} .p3{animation-delay:.7s} .p4{animation-delay:1.05s} .p5{animation-delay:1.4s}
-      @keyframes pulse { 0%,100%{opacity:.22; r:3} 50%{opacity:1; r:4.2} }
+      /* live activity bars: continuous, staggered, never resolves */
+      .bar { transform-box:fill-box; transform-origin:50% 100%;
+             animation:eq 1.5s ease-in-out infinite; }
+      @keyframes eq { 0%,100%{transform:scaleY(.22)} 50%{transform:scaleY(1)} }
+      .b1{animation-duration:1.30s;animation-delay:.00s}
+      .b2{animation-duration:1.75s;animation-delay:.18s}
+      .b3{animation-duration:1.10s;animation-delay:.34s}
+      .b4{animation-duration:2.00s;animation-delay:.10s}
+      .b5{animation-duration:1.45s;animation-delay:.46s}
+      .b6{animation-duration:1.65s;animation-delay:.26s}
+      .b7{animation-duration:1.20s;animation-delay:.58s}
+      .b8{animation-duration:1.90s;animation-delay:.06s}
 
-      .trace { stroke-dasharray:190; stroke-dashoffset:190;
-               animation:trace 2.4s ease-out .8s forwards; }
-      @keyframes trace { to { stroke-dashoffset:0; } }
+      .float { animation:float 4.5s ease-in-out infinite alternate; }
+      .f2{animation-delay:.9s} .f3{animation-delay:1.8s}
+      @keyframes float { to { transform:translateY(-11px);} }
 
-      .drift { animation:drift 11s ease-in-out infinite alternate; }
-      @keyframes drift { to { transform:translate(22px,-10px);} }
+      .drift { animation:drift 12s ease-in-out infinite alternate; }
+      @keyframes drift { to { transform:translate(20px,-8px);} }
 
       .hi   { font:400 33px 'Segoe Script','Bradley Hand','Snell Roundhand','Brush Script MT',cursive;
               fill:#f97316; }
@@ -42,25 +55,30 @@
   </defs>
 
   <rect width="900" height="268" fill="#0a0a0a"/>
-  <g class="drift"><circle cx="806" cy="52" r="165" fill="url(#glow)" opacity="0.13"/></g>
-  <rect x="0" y="0" width="4" height="268" fill="url(#accent)"/>
+  <g class="drift"><circle cx="812" cy="46" r="170" fill="url(#glow)" opacity="0.12"/></g>
 
-  <!-- circuit motif: nodes wired together, drawn in then pulsing -->
-  <g transform="translate(676,58)" opacity="0.9">
-    <path class="trace" d="M8 8 H92 V56 H150 M8 8 V72 H60 V120 H150 M92 56 V104"
-          fill="none" stroke="#f97316" stroke-opacity="0.42" stroke-width="1.6"/>
-    <circle class="pulse"    cx="8"   cy="8"   r="3" fill="#f97316"/>
-    <circle class="pulse p2" cx="92"  cy="56"  r="3" fill="#f97316"/>
-    <circle class="pulse p3" cx="150" cy="56"  r="3" fill="#fdba74"/>
-    <circle class="pulse p4" cx="60"  cy="120" r="3" fill="#f97316"/>
-    <circle class="pulse p5" cx="150" cy="120" r="3" fill="#fdba74"/>
-    <circle class="pulse p3" cx="92"  cy="104" r="3" fill="#f97316"/>
+  <!-- live signal bars -->
+  <g transform="translate(690,72)">
+    <rect class="bar b1" x="0"   y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect class="bar b2" x="17"  y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect class="bar b3" x="34"  y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect class="bar b4" x="51"  y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect class="bar b5" x="68"  y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect class="bar b6" x="85"  y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect class="bar b7" x="102" y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect class="bar b8" x="119" y="0"  width="9" height="112" rx="4.5" fill="url(#bar)"/>
+    <rect x="-6" y="118" width="140" height="1.5" rx="1" fill="#f97316" opacity="0.28"/>
   </g>
+
+  <!-- drifting particles -->
+  <circle class="float"    cx="648" cy="60"  r="3.4" fill="#f97316" opacity="0.75"/>
+  <circle class="float f2" cx="852" cy="212" r="2.6" fill="#fdba74" opacity="0.6"/>
+  <circle class="float f3" cx="626" cy="196" r="2.2" fill="#f97316" opacity="0.5"/>
 
   <text class="hi rise d1"   x="64" y="76">Konichiwa!</text>
   <text class="name rise d2" x="64" y="136">Mohammed Shoaib Choudry</text>
   <rect class="sweep" x="64" y="156" width="168" height="3" rx="1.5" fill="url(#accent)"/>
-  <text class="role rise d3" x="64" y="192">TECHPRENEUR / PRODUCT BUILDER / CO-FOUNDER</text>
+  <text class="role rise d3" x="64" y="192">TECHPRENEUR / PRODUCT BUILDER / EXPLORER</text>
   <text class="sub  rise d4" x="64" y="224">Tech products and MVPs, taken from idea to shipped.</text>
   <rect class="blink" x="64" y="240" width="10" height="3" fill="#f97316"/>
 </svg>

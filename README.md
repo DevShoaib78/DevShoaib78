@@ -4,21 +4,31 @@
   <img alt="Konichiwa, I am Mohammed Shoaib Choudry" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg" width="100%">
 </picture>
 
-<p>
-  <a href="https://onething.studio"><img alt="OneThing Studio" src="https://img.shields.io/badge/ONETHING%20STUDIO-f97316?style=for-the-badge&labelColor=0a0a0a&logoColor=white"></a>
-  <a href="https://x.com/mdshoaibchoudry"><img alt="X" src="https://img.shields.io/badge/@mdshoaibchoudry-0a0a0a?style=for-the-badge&logo=x&logoColor=f97316"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.academically"><img alt="Academic Ally on Google Play" src="https://img.shields.io/badge/ACADEMIC%20ALLY-Google%20Play-0a0a0a?style=for-the-badge&logo=googleplay&logoColor=f97316"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedshoaibchoudry"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=f97316"></a>
+  &nbsp;
+  <a href="https://x.com/mdshoaibchoudry"><img alt="X" src="https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=f97316"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/shoaibchoudry.md"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=f97316"></a>
 </p>
-
-Building tech products and MVPs from the get go: the interface, the code underneath, and the
-deployment that puts them in front of people.
-
-> **Over twenty are live right now**, across marketplaces, cybersecurity, logistics, AI and
-> community platforms.
 
 <br>
 
-## Where I build
+<h3>Building tech products and MVPs from the get go: the interface, the code underneath, and the deployment that puts them in front of people.</h3>
+
+<br>
+
+<div align="center">
+
+### Over twenty are live right now
+
+**across marketplaces, cybersecurity, logistics, AI and community platforms**
+
+</div>
+
+<br>
+
+## Cofounded
 
 <table>
   <tr>
