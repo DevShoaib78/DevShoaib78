@@ -28,7 +28,7 @@
 
 <br>
 
-## Ventures
+## 🚀 Ventures
 
 <table>
   <tr>
@@ -53,7 +53,7 @@
 
 <br>
 
-## The good stuff
+## ⭐ The good stuff
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -68,7 +68,7 @@
 | **HASCO** | Bilingual (EN/AR) portal for a Saudi marine, logistics and facility management group | Next.js · next-intl · Supabase | [Live](https://hasco.com.sa) |
 <br>
 
-## Everything else
+## 📦 Everything else
 
 <details>
 <summary><b>Fifteen more shipped products</b>, click to expand</summary>
@@ -113,7 +113,7 @@
 
 <br>
 
-## On mobile
+## 📱 On mobile
 
 **Academic Ally** is a study resource platform for university students, putting notes, past papers and exam prep in one place. It is [live on Google Play](https://play.google.com/store/apps/details?id=com.academically).
 
@@ -126,7 +126,7 @@ learning the framework from November 2023 onward, each committed on the day it w
 
 <br>
 
-## What I build with
+## 🛠️ What I build with
 
 **Web**
 `TypeScript` `React` `Next.js` `Tailwind CSS` `Vite` `SCSS`
@@ -141,14 +141,6 @@ learning the framework from November 2023 onward, each committed on the day it w
 `Vercel` `Netlify` `Git` `GitHub Actions` `Figma`
 
 <br>
-
-## Writing
-
-**[SEQUOIA's Investment Thesis, DECODED](https://medium.com/@ShoaibChoudry/sequoias-investment-thesis-decoded-499fdcc30f8d)**
-&nbsp;·&nbsp; <sub>Medium, June 2024</sub>
-
-<sub>A breakdown of how one of the world's most consequential venture firms decides what to back,
-and what that says about the ideas worth building.</sub>
 
 <br>
 
