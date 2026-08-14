@@ -1,28 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 168" width="900" height="168" role="img" aria-label="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 196" width="900" height="196" role="img" aria-label="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms">
   <style>
     .up { opacity:0; transform:translateY(10px); animation:up .7s cubic-bezier(.2,.7,.3,1) forwards; }
     @keyframes up { to { opacity:1; transform:translateY(0);} }
     .u2 { animation-delay:.16s }
-    .ring { stroke-dasharray:1750; stroke-dashoffset:1750;
-            animation:draw 1.9s cubic-bezier(.35,.75,.4,1) .5s forwards; }
+    .ring { stroke-dasharray:2000; stroke-dashoffset:2000;
+            animation:draw 2.1s cubic-bezier(.35,.75,.4,1) .5s forwards; }
+    .tail { stroke-dasharray:150; stroke-dashoffset:150;
+            animation:draw .5s ease-out 2.4s forwards; }
     @keyframes draw { to { stroke-dashoffset:0; } }
     .big  { font:700 31px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;
             fill:#fafafa; letter-spacing:-.4px; }
     .small{ font:600 16px 'Segoe UI',Helvetica,Arial,sans-serif; fill:#a1a1aa; }
   </style>
 
-  <text class="big up"      x="450" y="76"  text-anchor="middle">Over twenty are live right now!</text>
-  <text class="small up u2" x="450" y="104" text-anchor="middle">Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms</text>
+  <text class="big up"      x="450" y="92"  text-anchor="middle">Over twenty are live right now!</text>
+  <text class="small up u2" x="450" y="120" text-anchor="middle">Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms</text>
 
-  <!-- circled by hand, overshooting where the stroke comes back round -->
-  <path class="ring" fill="none" stroke="#f97316" stroke-width="3.4"
-        stroke-linecap="round" stroke-linejoin="round"
-        d="M266 48
-           C352 32 486 26 598 37
-           C688 46 762 65 782 91
-           C798 113 748 135 656 144
-           C532 155 348 154 238 139
-           C144 126 110 94 136 71
-           C159 50 219 41 272 39
-           C352 36 432 37 500 43"/>
+  <!-- circled by hand, with room to breathe -->
+  <g fill="none" stroke="#f97316" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path class="ring"
+          d="M238 42
+             C348 25 512 19 638 32
+             C742 43 830 68 848 102
+             C864 133 800 164 686 176
+             C540 191 320 190 196 171
+             C88 155 50 114 84 86
+             C114 61 184 49 246 45"/>
+    <path class="tail"
+          d="M246 45 C316 41 392 41 452 47"/>
+  </g>
 </svg>

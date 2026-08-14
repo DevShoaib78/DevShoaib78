@@ -11,7 +11,7 @@
   &nbsp;
   <a href="https://www.instagram.com/shoaibchoudry.md"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=f97316"></a>
   &nbsp;
-  <a href="https://medium.com/@ShoaibChoudry"><img alt="Medium" src="https://img.shields.io/badge/Medium-0a0a0a?style=for-the-badge&logo=medium&logoColor=f97316"></a>
+  <a href="https://medium.com/@ShoaibChoudry"><img alt="Medium" src="https://img.shields.io/badge/Medium-0a0a0a?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y5NzMxNiIgZD0iTTEzLjU0IDEyYTYuOCA2LjggMCAwMS02Ljc3IDYuODJBNi44IDYuOCAwIDAxMCAxMmE2LjggNi44IDAgMDE2Ljc3LTYuODJBNi44IDYuOCAwIDAxMTMuNTQgMTJ6TTIwLjk2IDEyYzAgMy41NC0xLjUxIDYuNDItMy4zOCA2LjQyLTEuODcgMC0zLjM5LTIuODgtMy4zOS02LjQyczEuNTItNi40MiAzLjM5LTYuNDIgMy4zOCAyLjg4IDMuMzggNi40Mk0yNCAxMmMwIDMuMTctLjUzIDUuNzUtMS4xOSA1Ljc1LS42NiAwLTEuMTktMi41OC0xLjE5LTUuNzVzLjUzLTUuNzUgMS4xOS01Ljc1QzIzLjQ3IDYuMjUgMjQgOC44MyAyNCAxMnoiLz48L3N2Zz4="></a>
 </p>
 
 <br>
