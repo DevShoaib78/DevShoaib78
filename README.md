@@ -142,74 +142,74 @@ learning the framework from November 2023 onward, each committed on the day it w
 $\color{#c4b5fd}\textsf{\textbf{Languages}}$
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-=flat-square&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-=flat-square&logo=javascript&logoColor=black">
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-=flat-square&logo=dart&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-=flat-square&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-=flat-square&logo=css&logoColor=white">
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-=flat-square&logo=sass&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
 </p>
 
 $\color{#c4b5fd}\textsf{\textbf{AI}}$
 
 <p>
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-=flat-square&logo=claude&logoColor=white">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDY2LS42Njd6bTIuMDEwNy0zLjAyMzFsLS4xNDItLjA4NTItNC43NzM1LTIuNzgxOGEuNzc1OS43NzU5IDAgMCAwLS43ODU0IDBMOS40MDkgOS4yMjk3VjYuODk3NGEuMDY2Mi4wNjYyIDAgMCAxIC4wMjg0LS4wNjE1bDQuODMwMy0yLjc4NjZhNC40OTkyIDQuNDk5MiAwIDAgMSA2LjY4MDIgNC42NnpNOC4zMDY1IDEyLjg2M2wtMi4wMi0xLjE2MzhhLjA4MDQuMDgwNCAwIDAgMS0uMDM3OC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg==">
-  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-=flat-square&logo=googlegemini&logoColor=white">
-  <img alt="Tavily" src="https://img.shields.io/badge/Tavily-=flat-square">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img alt="Tavily" src="https://img.shields.io/badge/Tavily-1F2937?style=flat-square">
 </p>
 
 $\color{#c4b5fd}\textsf{\textbf{Frontend}}$
 
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-=flat-square&logo=react&logoColor=black">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-=flat-square&logo=vite&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-=flat-square&logo=framer&logoColor=white">
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-=flat-square&logo=greensock&logoColor=black">
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-=flat-square&logo=threedotjs&logoColor=white">
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-=flat-square&logo=shadcnui&logoColor=white">
-  <img alt="Radix UI" src="https://img.shields.io/badge/Radix%20UI-=flat-square&logo=radixui&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-=flat-square&logo=bootstrap&logoColor=white">
-  <img alt="Lucide" src="https://img.shields.io/badge/Lucide-=flat-square&logo=lucide&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white">
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white">
+  <img alt="Radix UI" src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+  <img alt="Lucide" src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white">
 </p>
 
 $\color{#c4b5fd}\textsf{\textbf{Mobile}}$
 
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-=flat-square&logo=flutter&logoColor=white">
-  <img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-=flat-square">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-=flat-square&logo=firebase&logoColor=black">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img alt="Riverpod" src="https://img.shields.io/badge/Riverpod-0553B1?style=flat-square">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 </p>
 
 $\color{#c4b5fd}\textsf{\textbf{Backend\ and\ data}}$
 
 <p>
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-=flat-square&logo=supabase&logoColor=black">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="Zod" src="https://img.shields.io/badge/Zod-=flat-square&logo=zod&logoColor=white">
-  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-=flat-square&logo=reactquery&logoColor=white">
-  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-=flat-square&logo=leaflet&logoColor=white">
-  <img alt="i18next" src="https://img.shields.io/badge/i18next-=flat-square&logo=i18next&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white">
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
+  <img alt="i18next" src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white">
 </p>
 
 $\color{#c4b5fd}\textsf{\textbf{Design\ and\ tooling}}$
 
 <p>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-=flat-square&logo=figma&logoColor=white">
-  <img alt="Framer" src="https://img.shields.io/badge/Framer-=flat-square&logo=framer&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-=flat-square&logo=githubactions&logoColor=white">
-  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-=flat-square&logo=eslint&logoColor=white">
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-=flat-square&logo=vitest&logoColor=white">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-=flat-square">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img alt="Framer" src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square">
 </p>
 
 $\color{#c4b5fd}\textsf{\textbf{Deployment}}$
 
 <p>
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-=flat-square&logo=vercel&logoColor=white">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-=flat-square&logo=netlify&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white">
 </p>
