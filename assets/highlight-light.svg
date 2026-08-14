@@ -1,31 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 132" width="900" height="132" role="img" aria-label="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 168" width="900" height="168" role="img" aria-label="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms">
   <style>
     .up { opacity:0; transform:translateY(10px); animation:up .7s cubic-bezier(.2,.7,.3,1) forwards; }
     @keyframes up { to { opacity:1; transform:translateY(0);} }
     .u2 { animation-delay:.16s }
-    .scribble { stroke-dasharray:340; stroke-dashoffset:340;
-                animation:draw 1.5s cubic-bezier(.3,.8,.4,1) .45s forwards; }
-    .s2 { animation-delay:.62s }
-    .s3 { animation-delay:.80s }
+    .ring { stroke-dasharray:1750; stroke-dashoffset:1750;
+            animation:draw 1.9s cubic-bezier(.35,.75,.4,1) .5s forwards; }
     @keyframes draw { to { stroke-dashoffset:0; } }
     .big  { font:700 31px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;
             fill:#0a0a0a; letter-spacing:-.4px; }
     .small{ font:600 16px 'Segoe UI',Helvetica,Arial,sans-serif; fill:#52525b; }
   </style>
 
-  <text class="big up"      x="450" y="42" text-anchor="middle">Over twenty are live right now!</text>
-  <text class="small up u2" x="450" y="70" text-anchor="middle">Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms</text>
+  <text class="big up"      x="450" y="76"  text-anchor="middle">Over twenty are live right now!</text>
+  <text class="small up u2" x="450" y="104" text-anchor="middle">Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms</text>
 
-  <g fill="none" stroke="#ea580c" stroke-linecap="round">
-    <path class="scribble" stroke-width="3.4"
-          d="M316 97 C330 92 341 100 355 97 C369 94 379 102 394 98
-             C410 94 420 103 437 99 C453 95 463 104 480 100
-             C497 96 508 103 525 98 C541 93 555 101 570 96 C578 93 583 96 586 94"/>
-    <path class="scribble s2" stroke-width="2.4" opacity="0.7"
-          d="M324 104 C340 100 350 108 366 105 C382 102 392 109 409 106
-             C427 103 437 110 456 106 C474 102 486 109 505 105
-             C521 101 535 107 552 103 C564 100 572 104 578 101"/>
-    <path class="scribble s3" stroke-width="1.6" opacity="0.45"
-          d="M344 93 C366 89 388 96 412 92 C438 88 458 95 484 91"/>
-  </g>
+  <!-- circled by hand, overshooting where the stroke comes back round -->
+  <path class="ring" fill="none" stroke="#ea580c" stroke-width="3.4"
+        stroke-linecap="round" stroke-linejoin="round"
+        d="M266 48
+           C352 32 486 26 598 37
+           C688 46 762 65 782 91
+           C798 113 748 135 656 144
+           C532 155 348 154 238 139
+           C144 126 110 94 136 71
+           C159 50 219 41 272 39
+           C352 36 432 37 500 43"/>
 </svg>
