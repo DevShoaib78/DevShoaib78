@@ -6,6 +6,7 @@
     .scribble { stroke-dasharray:340; stroke-dashoffset:340;
                 animation:draw 1.5s cubic-bezier(.3,.8,.4,1) .45s forwards; }
     .s2 { animation-delay:.62s }
+    .s3 { animation-delay:.80s }
     @keyframes draw { to { stroke-dashoffset:0; } }
     .big  { font:700 31px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;
             fill:#fafafa; letter-spacing:-.4px; }
@@ -15,10 +16,16 @@
   <text class="big up"      x="450" y="42" text-anchor="middle">Over twenty are live right now!</text>
   <text class="small up u2" x="450" y="70" text-anchor="middle">Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms</text>
 
-  <g fill="none" stroke="#f97316" stroke-linecap="round" stroke-width="3.2">
-    <path class="scribble"
-          d="M328 98 C372 91 418 103 462 95 C506 87 548 99 578 92"/>
-    <path class="scribble s2" stroke-width="2.2" opacity="0.65"
-          d="M336 105 C384 99 424 108 470 100 C512 93 546 104 570 98"/>
+  <g fill="none" stroke="#f97316" stroke-linecap="round">
+    <path class="scribble" stroke-width="3.4"
+          d="M316 97 C330 92 341 100 355 97 C369 94 379 102 394 98
+             C410 94 420 103 437 99 C453 95 463 104 480 100
+             C497 96 508 103 525 98 C541 93 555 101 570 96 C578 93 583 96 586 94"/>
+    <path class="scribble s2" stroke-width="2.4" opacity="0.7"
+          d="M324 104 C340 100 350 108 366 105 C382 102 392 109 409 106
+             C427 103 437 110 456 106 C474 102 486 109 505 105
+             C521 101 535 107 552 103 C564 100 572 104 578 101"/>
+    <path class="scribble s3" stroke-width="1.6" opacity="0.45"
+          d="M344 93 C366 89 388 96 412 92 C438 88 458 95 484 91"/>
   </g>
 </svg>

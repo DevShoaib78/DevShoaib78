@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 120" width="244" height="120" role="img" aria-label="Shoaib Choudry signature">
+  <g fill="none" stroke="#f97316" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round">
+    <!-- narrow pinched loop (left) -->
+    <path d="M108 47 C102 30 110 8 120 10 C129 12 123 30 114 42 C111 46 109 49 108 52"/>
+    <!-- large leaning oval (right), crossing the first -->
+    <path d="M111 45 C121 28 136 1 148 6 C158 11 154 34 143 48 C136 57 126 63 119 67"/>
+    <!-- wide descender loop sweeping down-left, back along the bottom, out right -->
+    <path d="M117 52 C107 60 92 59 85 65 C77 71 81 79 93 78 C109 76 129 69 141 66
+             C149 64 153 65 151 68"/>
+  </g>
+  <!-- long tapered swash -->
+  <path fill="#f97316"
+        d="M2 113 C50 105 110 93 176 80 C206 74 228 68 241 63
+           C228 72 206 77 176 84 C110 96 50 106 2 113 Z"/>
+</svg>

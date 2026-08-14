@@ -20,19 +20,21 @@
       .cursor { fill:#f97316; animation:blink 1.15s steps(1) 1.5s infinite; }
       @keyframes blink { 0%,55%{opacity:1} 56%,100%{opacity:0} }
 
-      /* signature signs itself, holds, then re-signs */
-      .ink  { stroke-dasharray:520; stroke-dashoffset:520;
-              animation:sign 9s ease-in-out infinite; }
+      /* signature signs itself stroke by stroke, holds, then re-signs */
+      .ink  { stroke-dasharray:170; stroke-dashoffset:170;
+              animation:sign 10s ease-in-out infinite; }
       @keyframes sign {
-        0%{stroke-dashoffset:520} 22%{stroke-dashoffset:0}
-        84%{stroke-dashoffset:0; opacity:1} 94%{opacity:0}
-        95%{stroke-dashoffset:520; opacity:0} 100%{stroke-dashoffset:520; opacity:1} }
-      .ink2 { animation-delay:1.5s }
-      .swash{ opacity:0; animation:swash 9s ease-in-out infinite; }
+        0%{stroke-dashoffset:170; opacity:1} 14%{stroke-dashoffset:0}
+        86%{stroke-dashoffset:0; opacity:1} 94%{opacity:0}
+        95%{stroke-dashoffset:170; opacity:0} 100%{stroke-dashoffset:170; opacity:1} }
+      .ink2 { animation-delay:.85s }
+      .ink3 { animation-delay:1.7s }
+      .swash{ opacity:0; transform-box:fill-box; transform-origin:0% 50%;
+              animation:swash 10s ease-in-out infinite; }
       @keyframes swash {
-        0%,32%{opacity:0; transform:translateX(-14px)}
-        44%{opacity:1; transform:translateX(0)}
-        84%{opacity:1} 94%,100%{opacity:0} }
+        0%,28%{opacity:0; transform:scaleX(0)}
+        42%{opacity:1; transform:scaleX(1)}
+        86%{opacity:1; transform:scaleX(1)} 94%,100%{opacity:0} }
 
       .drift { animation:drift 12s ease-in-out infinite alternate; }
       @keyframes drift { to { transform:translate(18px,-8px);} }
@@ -52,16 +54,17 @@
 
   <rect x="0" y="0" width="4" height="268" fill="url(#accent)"/>
 
-  <!-- signature -->
-  <g transform="translate(622,58)" fill="none" stroke="#f97316"
-     stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
-    <path class="ink"  d="M96 70 C88 50 94 26 104 30 C113 34 104 56 96 70
-                          C86 88 64 102 50 94 C36 86 44 68 64 66
-                          C86 64 112 76 132 86 C142 91 146 86 142 79"/>
-    <path class="ink ink2" d="M100 72 C96 46 112 20 130 24 C148 28 148 58 132 74
-                              C122 84 110 90 102 92"/>
-    <path class="swash" stroke="none" fill="#f97316"
-          d="M6 122 C70 114 150 97 216 80 L216 85 C150 104 70 118 8 127 Z"/>
+  <!-- signature, traced from the original -->
+  <g transform="translate(624,62) scale(0.92)">
+    <g fill="none" stroke="#f97316" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round">
+      <path class="ink"      d="M108 47 C102 30 110 8 120 10 C129 12 123 30 114 42 C111 46 109 49 108 52"/>
+      <path class="ink ink2" d="M111 45 C121 28 136 1 148 6 C158 11 154 34 143 48 C136 57 126 63 119 67"/>
+      <path class="ink ink3" d="M117 52 C107 60 92 59 85 65 C77 71 81 79 93 78 C109 76 129 69 141 66
+                                C149 64 153 65 151 68"/>
+    </g>
+    <path class="swash" fill="#f97316"
+          d="M2 113 C50 105 110 93 176 80 C206 74 228 68 241 63
+             C228 72 206 77 176 84 C110 96 50 106 2 113 Z"/>
   </g>
 
   <text class="hi rise d1"   x="64" y="76">Konichiwa!</text>
