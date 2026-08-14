@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 132" width="900" height="132" role="img" aria-label="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms">
+  <style>
+    .up { opacity:0; transform:translateY(10px); animation:up .7s cubic-bezier(.2,.7,.3,1) forwards; }
+    @keyframes up { to { opacity:1; transform:translateY(0);} }
+    .u2 { animation-delay:.16s }
+    .scribble { stroke-dasharray:340; stroke-dashoffset:340;
+                animation:draw 1.5s cubic-bezier(.3,.8,.4,1) .45s forwards; }
+    .s2 { animation-delay:.62s }
+    @keyframes draw { to { stroke-dashoffset:0; } }
+    .big  { font:700 31px 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;
+            fill:#fafafa; letter-spacing:-.4px; }
+    .small{ font:600 16px 'Segoe UI',Helvetica,Arial,sans-serif; fill:#a1a1aa; }
+  </style>
+
+  <text class="big up"      x="450" y="42" text-anchor="middle">Over twenty are live right now!</text>
+  <text class="small up u2" x="450" y="70" text-anchor="middle">Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms</text>
+
+  <g fill="none" stroke="#f97316" stroke-linecap="round" stroke-width="3.2">
+    <path class="scribble"
+          d="M328 98 C372 91 418 103 462 95 C506 87 548 99 578 92"/>
+    <path class="scribble s2" stroke-width="2.2" opacity="0.65"
+          d="M336 105 C384 99 424 108 470 100 C512 93 546 104 570 98"/>
+  </g>
+</svg>

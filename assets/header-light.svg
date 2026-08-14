@@ -20,31 +20,18 @@
       .cursor { fill:#ea580c; animation:blink 1.15s steps(1) 1.5s infinite; }
       @keyframes blink { 0%,55%{opacity:1} 56%,100%{opacity:0} }
 
-      .emit { transform-box:fill-box; transform-origin:0% 50%;
-              animation:emit 3.4s ease-out infinite; }
-      @keyframes emit { 0%{transform:scaleX(1);opacity:.4} 100%{transform:scaleX(14);opacity:0} }
-
-      .node { transform-box:fill-box; transform-origin:50% 50%; opacity:0;
-              animation:node 6.5s ease-in-out infinite; }
-      @keyframes node {
-        0%{opacity:0;transform:scale(0)} 10%{opacity:1;transform:scale(1.25)}
-        14%{transform:scale(1)} 80%{opacity:1;transform:scale(1)}
-        92%{opacity:0;transform:scale(.3)} 100%{opacity:0;transform:scale(0)} }
-      .n2{animation-delay:.28s} .n3{animation-delay:.52s}
-      .n4{animation-delay:.78s} .n5{animation-delay:1.02s} .n6{animation-delay:.06s}
-
-      .link { stroke-dasharray:62; stroke-dashoffset:62;
-              animation:link 6.5s ease-in-out infinite; }
-      @keyframes link {
-        0%{stroke-dashoffset:62;opacity:0} 8%{opacity:.5}
-        26%{stroke-dashoffset:0;opacity:.5} 80%{stroke-dashoffset:0;opacity:.5}
-        92%{opacity:0} 100%{stroke-dashoffset:62;opacity:0} }
-      .l2{animation-delay:.30s} .l3{animation-delay:.54s}
-      .l4{animation-delay:.80s} .l5{animation-delay:1.04s}
-      .l6{animation-delay:1.24s} .l7{animation-delay:1.40s}
-
-      .spin { animation:spin 11s linear infinite; transform-origin:0 0; }
-      @keyframes spin { to { transform:rotate(360deg);} }
+      .ink  { stroke-dasharray:520; stroke-dashoffset:520;
+              animation:sign 9s ease-in-out infinite; }
+      @keyframes sign {
+        0%{stroke-dashoffset:520} 22%{stroke-dashoffset:0}
+        84%{stroke-dashoffset:0; opacity:1} 94%{opacity:0}
+        95%{stroke-dashoffset:520; opacity:0} 100%{stroke-dashoffset:520; opacity:1} }
+      .ink2 { animation-delay:1.5s }
+      .swash{ opacity:0; animation:swash 9s ease-in-out infinite; }
+      @keyframes swash {
+        0%,32%{opacity:0; transform:translateX(-14px)}
+        44%{opacity:1; transform:translateX(0)}
+        84%{opacity:1} 94%,100%{opacity:0} }
 
       .drift { animation:drift 12s ease-in-out infinite alternate; }
       @keyframes drift { to { transform:translate(18px,-8px);} }
@@ -55,35 +42,24 @@
               fill:#0a0a0a; letter-spacing:-1.3px; }
       .role { font:600 13px ui-monospace,'SF Mono',Menlo,Consolas,monospace;
               fill:#52525b; letter-spacing:2.6px; }
-      .sub  { font:400 16.5px 'Segoe UI',Helvetica,Arial,sans-serif; fill:#71717a; }
+      .sub  { font:700 16.5px 'Segoe UI',Helvetica,Arial,sans-serif; fill:#52525b; }
     </style>
   </defs>
 
   <rect width="900" height="268" fill="#ffffff"/>
   <g class="drift"><circle cx="812" cy="46" r="170" fill="url(#glowL)" opacity="0.13"/></g>
 
-  <rect class="emit" x="0" y="0" width="4" height="268" fill="#ea580c"/>
   <rect x="0" y="0" width="4" height="268" fill="url(#accentL)"/>
 
-  <g stroke="#ea580c" stroke-width="1.5" fill="none" stroke-linecap="round">
-    <path class="link"    d="M764 130 L762 82"/>
-    <path class="link l2" d="M764 130 L716 118"/>
-    <path class="link l3" d="M764 130 L806 110"/>
-    <path class="link l4" d="M764 130 L740 166"/>
-    <path class="link l5" d="M764 130 L808 162"/>
-    <path class="link l6" d="M716 118 L740 166"/>
-    <path class="link l7" d="M806 110 L808 162"/>
-  </g>
-  <g>
-    <circle class="node n6" cx="764" cy="130" r="5.5" fill="#fb923c"/>
-    <circle class="node"    cx="762" cy="82"  r="4"   fill="#ea580c"/>
-    <circle class="node n2" cx="716" cy="118" r="4"   fill="#ea580c"/>
-    <circle class="node n3" cx="806" cy="110" r="4"   fill="#ea580c"/>
-    <circle class="node n4" cx="740" cy="166" r="4"   fill="#ea580c"/>
-    <circle class="node n5" cx="808" cy="162" r="4"   fill="#ea580c"/>
-  </g>
-  <g transform="translate(764,130)">
-    <g class="spin"><circle cx="86" cy="0" r="3.2" fill="#fb923c" opacity="0.9"/></g>
+  <g transform="translate(622,58)" fill="none" stroke="#ea580c"
+     stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <path class="ink"  d="M96 70 C88 50 94 26 104 30 C113 34 104 56 96 70
+                          C86 88 64 102 50 94 C36 86 44 68 64 66
+                          C86 64 112 76 132 86 C142 91 146 86 142 79"/>
+    <path class="ink ink2" d="M100 72 C96 46 112 20 130 24 C148 28 148 58 132 74
+                              C122 84 110 90 102 92"/>
+    <path class="swash" stroke="none" fill="#ea580c"
+          d="M6 122 C70 114 150 97 216 80 L216 85 C150 104 70 118 8 127 Z"/>
   </g>
 
   <text class="hi rise d1"   x="64" y="76">Konichiwa!</text>

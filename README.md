@@ -20,15 +20,11 @@
 
 <br>
 
-<div align="center">
-
-<h2>Over twenty are live right now!</h2>
-
-**Across Marketplaces, Cybersecurity, Logistics, AI and Community platforms**
-
-<img src="https://img.shields.io/badge/-f97316?style=flat-square&label=&labelColor=f97316" height="3" width="120" alt="">
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-light.svg">
+  <img alt="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg" width="100%">
+</picture>
 
 <br>
 
