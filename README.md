@@ -139,7 +139,7 @@ learning the framework from November 2023 onward, each committed on the day it w
 
 ## 🛠️ What I build with
 
-$\color{#c4b5fd}\textsf{\textbf{Languages}}$
+### Languages
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -150,7 +150,7 @@ $\color{#c4b5fd}\textsf{\textbf{Languages}}$
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
 </p>
 
-$\color{#c4b5fd}\textsf{\textbf{AI}}$
+### AI
 
 <p>
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white">
@@ -159,7 +159,7 @@ $\color{#c4b5fd}\textsf{\textbf{AI}}$
   <img alt="Tavily" src="https://img.shields.io/badge/Tavily-1F2937?style=flat-square">
 </p>
 
-$\color{#c4b5fd}\textsf{\textbf{Frontend}}$
+### Frontend
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -175,7 +175,7 @@ $\color{#c4b5fd}\textsf{\textbf{Frontend}}$
   <img alt="Lucide" src="https://img.shields.io/badge/Lucide-F56565?style=flat-square&logo=lucide&logoColor=white">
 </p>
 
-$\color{#c4b5fd}\textsf{\textbf{Mobile}}$
+### Mobile
 
 <p>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
@@ -183,7 +183,7 @@ $\color{#c4b5fd}\textsf{\textbf{Mobile}}$
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 </p>
 
-$\color{#c4b5fd}\textsf{\textbf{Backend\ and\ data}}$
+### Backend and data
 
 <p>
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black">
@@ -195,7 +195,7 @@ $\color{#c4b5fd}\textsf{\textbf{Backend\ and\ data}}$
   <img alt="i18next" src="https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white">
 </p>
 
-$\color{#c4b5fd}\textsf{\textbf{Design\ and\ tooling}}$
+### Design and tooling
 
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
@@ -207,7 +207,7 @@ $\color{#c4b5fd}\textsf{\textbf{Design\ and\ tooling}}$
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square">
 </p>
 
-$\color{#c4b5fd}\textsf{\textbf{Deployment}}$
+### Deployment
 
 <p>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
