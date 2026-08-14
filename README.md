@@ -28,7 +28,7 @@
 
 <br>
 
-## Cofounded
+## Built from zero
 
 <table>
   <tr>
