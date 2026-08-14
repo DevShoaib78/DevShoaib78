@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-light.svg?v=3">
-  <img alt="Konichiwa, I am Mohammed Shoaib Choudry" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=3" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-light.svg?v=4">
+  <img alt="Konichiwa, I am Mohammed Shoaib Choudry" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=4" width="100%">
 </picture>
 
 <p align="center">
@@ -21,9 +21,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-light.svg?v=3">
-  <img alt="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=3" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-light.svg?v=4">
+  <img alt="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=4" width="100%">
 </picture>
 
 <br>
@@ -71,11 +71,11 @@
 ## 📦 Everything else
 
 <details>
-<summary><b>Fifteen more live products.</b> Click to reveal</summary>
+<summary><b>Fifteen more live products.</b> Click to reveal ❗</summary>
 
 <br>
 
-**Products and platforms**
+$\color{mediumpurple}\textsf{\textbf{Products and platforms}}$
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -85,7 +85,7 @@
 | **Chipzenix** | Semiconductor engineering company site | Next.js · GSAP | [Live](https://chipzenix.vercel.app) |
 | **PetSwipe** | Swipe to match pet adoption app | React · Vite · Supabase | [Live](https://petswipe-petmatch.netlify.app) |
 
-**Brands and storefronts**
+$\color{mediumpurple}\textsf{\textbf{Brands and storefronts}}$
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -94,14 +94,14 @@
 | **Thrivebar** | Wellness brand site | React · Vite · Supabase | [Live](https://thrivebar.netlify.app) |
 | **MakeBit** | Web development and automation studio | React · Vite · Three.js · GSAP | [Live](https://makebitv2.netlify.app/) |
 
-**Community**
+$\color{mediumpurple}\textsf{\textbf{Community}}$
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
 | **Tahreek Muslim Shabban** | Website for a community organisation empowering Muslim communities in Hyderabad | HTML · SCSS · Bootstrap | [Live](https://tahreekmuslimshabban.org) |
 | **Hyderabad Hustlers** | A platform covering hustlers from Hyderabad | Framer | [Live](https://hyderabadhustlers.framer.website/) |
 
-**Built for others**
+$\color{mediumpurple}\textsf{\textbf{Built for others}}$
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -117,13 +117,24 @@
 
 **Academic Ally** is a study resource platform for university students, putting notes, past papers and exam prep in one place. It is [live on Google Play](https://play.google.com/store/apps/details?id=com.academically).
 
+<br>
+
 **FIXIT** is three Flutter apps (customer, partner, admin) sharing `fixit_core` and `fixit_ui`
 packages in a single monorepo. Currently in development.
+
+<br>
 
 Everything that led up to it lives in
 **[Early-Flutter-Works](https://github.com/DevShoaib78/Early-Flutter-Works)**: 29 apps built while
 learning the framework from November 2023 onward, each committed on the day it was actually made.
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-light.svg?v=4">
+  <img alt="Note: most repositories here are private because they hold client code. The work itself is public, every project above is live and the links go straight to it." src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-dark.svg?v=4" width="100%">
+</picture>
 <br>
 
 ## 🛠️ What I build with
@@ -142,11 +153,3 @@ learning the framework from November 2023 onward, each committed on the day it w
 
 <br>
 
-<br>
-
----
-
-<sub>
-Most repositories here are private, because they hold client code. The work itself is public:
-every project above is live, and the links go straight to it.
-</sub>

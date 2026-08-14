@@ -43,7 +43,6 @@
   </defs>
 
   <rect width="900" height="268" fill="#000000"/>
-  <rect x="0" y="0" width="4" height="268" fill="url(#rule)"/>
 
   <g clip-path="url(#sigclip)">
     <image x="656" y="66" width="238" height="117" preserveAspectRatio="xMidYMid meet"
