@@ -28,7 +28,7 @@
 
 <br>
 
-## Started these, with good people
+## Co-founded
 
 <table>
   <tr>
