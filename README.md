@@ -130,11 +130,9 @@ learning the framework from November 2023 onward, each committed on the day it w
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-light.svg?v=4">
-  <img alt="Note: most repositories here are private because they hold client code. The work itself is public, every project above is live and the links go straight to it." src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-dark.svg?v=4" width="100%">
-</picture>
+> [!NOTE]
+> *Most repositories here are private, because they hold client code.*
+> *The work itself is public: every project above is live, and the links go straight to it.*
 <br>
 
 ## 🛠️ What I build with
