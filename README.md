@@ -76,7 +76,7 @@
 
 <br>
 
-#### Products and platforms
+### Products and platforms
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -86,7 +86,7 @@
 | **Chipzenix** | Semiconductor engineering company site | Next.js · GSAP | [Live](https://chipzenix.vercel.app) |
 | **PetSwipe** | Swipe to match pet adoption app | React · Vite · Supabase | [Live](https://petswipe-petmatch.netlify.app) |
 
-#### Brands and storefronts
+### Brands and storefronts
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -95,14 +95,14 @@
 | **Thrivebar** | Wellness brand site | React · Vite · Supabase | [Live](https://thrivebar.netlify.app) |
 | **MakeBit** | Web development and automation studio | React · Vite · Three.js · GSAP | [Live](https://makebitv2.netlify.app/) |
 
-#### Community
+### Community
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
 | **Tahreek Muslim Shabban** | Website for a community organisation empowering Muslim communities in Hyderabad | HTML · SCSS · Bootstrap | [Live](https://tahreekmuslimshabban.org) |
 | **Hyderabad Hustlers** | A platform covering hustlers from Hyderabad | Framer | [Live](https://hyderabadhustlers.framer.website/) |
 
-#### Built for others
+### Built for others
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
