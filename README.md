@@ -78,6 +78,8 @@
 
 <h3 align="center">Products and platforms</h3>
 
+<div align="center">
+
 | Project | What it is | Built with | Status |
 |---|---|---|---|
 | **Ambliq Solutions** | AI automation for service businesses | Next.js · GSAP | [Live](https://www.ambliqsolutions.com) |
@@ -86,7 +88,11 @@
 | **Chipzenix** | Semiconductor engineering company site | Next.js · GSAP | [Live](https://chipzenix.vercel.app) |
 | **PetSwipe** | Swipe to match pet adoption app | React · Vite · Supabase | [Live](https://petswipe-petmatch.netlify.app) |
 
+</div>
+
 <h3 align="center">Brands and storefronts</h3>
+
+<div align="center">
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -95,14 +101,22 @@
 | **Thrivebar** | Wellness brand site | React · Vite · Supabase | [Live](https://thrivebar.netlify.app) |
 | **MakeBit** | Web development and automation studio | React · Vite · Three.js · GSAP | [Live](https://makebitv2.netlify.app/) |
 
+</div>
+
 <h3 align="center">Community</h3>
+
+<div align="center">
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
 | **Tahreek Muslim Shabban** | Website for a community organisation empowering Muslim communities in Hyderabad | HTML · SCSS · Bootstrap | [Live](https://tahreekmuslimshabban.org) |
 | **Hyderabad Hustlers** | A platform covering hustlers from Hyderabad | Framer | [Live](https://hyderabadhustlers.framer.website/) |
 
+</div>
+
 <h3 align="center">Built for others</h3>
+
+<div align="center">
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -110,6 +124,8 @@
 | **Sayeeda Jabri** | Co-founder, Hyderabad Hustlers | React · GSAP · Framer Motion | [Live](https://sayeedajabri.com) |
 | **Umar Shoaib** | A developer | Next.js · Gemini · Firebase | [Live](https://umarportfolio-chi.vercel.app/) |
 | **OneThing Studio** | Our Studio. MVPs in 1 to 4 weeks | React · Vite · Framer Motion | [Live](https://onething.studio) |
+
+</div>
 </details>
 
 <br>
