@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-light.svg?v=4">
-  <img alt="Konichiwa, I am Mohammed Shoaib Choudry" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=4" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-light.svg?v=5">
+  <img alt="Konichiwa, I am Mohammed Shoaib Choudry" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/header-dark.svg?v=5" width="100%">
 </picture>
 
 <p align="center">
@@ -21,9 +21,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-light.svg?v=4">
-  <img alt="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=4" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-light.svg?v=5">
+  <img alt="Over twenty are live right now, across marketplaces, cybersecurity, logistics, AI and community platforms" src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/highlight-dark.svg?v=5" width="100%">
 </picture>
 
 <br>
@@ -76,7 +76,7 @@
 
 <br>
 
-$\color{#c4b5fd}\textsf{\textbf{Products and platforms}}$
+#### Products and platforms
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -86,7 +86,7 @@ $\color{#c4b5fd}\textsf{\textbf{Products and platforms}}$
 | **Chipzenix** | Semiconductor engineering company site | Next.js · GSAP | [Live](https://chipzenix.vercel.app) |
 | **PetSwipe** | Swipe to match pet adoption app | React · Vite · Supabase | [Live](https://petswipe-petmatch.netlify.app) |
 
-$\color{#c4b5fd}\textsf{\textbf{Brands and storefronts}}$
+#### Brands and storefronts
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -95,14 +95,14 @@ $\color{#c4b5fd}\textsf{\textbf{Brands and storefronts}}$
 | **Thrivebar** | Wellness brand site | React · Vite · Supabase | [Live](https://thrivebar.netlify.app) |
 | **MakeBit** | Web development and automation studio | React · Vite · Three.js · GSAP | [Live](https://makebitv2.netlify.app/) |
 
-$\color{#c4b5fd}\textsf{\textbf{Community}}$
+#### Community
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
 | **Tahreek Muslim Shabban** | Website for a community organisation empowering Muslim communities in Hyderabad | HTML · SCSS · Bootstrap | [Live](https://tahreekmuslimshabban.org) |
 | **Hyderabad Hustlers** | A platform covering hustlers from Hyderabad | Framer | [Live](https://hyderabadhustlers.framer.website/) |
 
-$\color{#c4b5fd}\textsf{\textbf{Built for others}}$
+#### Built for others
 
 | Project | What it is | Built with | Status |
 |---|---|---|---|
@@ -131,9 +131,11 @@ learning the framework from November 2023 onward, each committed on the day it w
 
 <br>
 
-> [!NOTE]
-> *Most repositories here are private, because they hold client code.*
-> *The work itself is public: every project above is live, and the links go straight to it.*
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-light.svg?v=5">
+  <img alt="Note: most repositories here are private because they hold client code. The work itself is public, every project above is live and the links go straight to it." src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-dark.svg?v=5" width="100%">
+</picture>
 <br>
 
 ## 🛠️ What I build with
