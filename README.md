@@ -66,6 +66,7 @@
 | **Brandqraft** | Branding and digital marketing studio | Next.js · Framer Motion | [Live](https://brandqraft.co) |
 | **CyFi** | Bilingual (EN/AR) product site for a cybersecurity firm based in Saudi Arabia | React · Vite · i18next | [Live](https://cyfi.sa) |
 | **HASCO** | Bilingual (EN/AR) portal for a Saudi marine, logistics and facility management group | Next.js · next-intl · Supabase | [Live](https://hasco.com.sa) |
+
 <br>
 
 ## 📦 Everything else
