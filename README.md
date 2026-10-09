@@ -33,10 +33,10 @@
 <table>
   <tr>
     <td width="70" align="center">
-      <img src="https://avatars.githubusercontent.com/u/316966822?v=4" width="50" alt="OneThing Studio">
+      <img src="https://avatars.githubusercontent.com/u/316966822?v=4" width="50" alt="Onething Studio">
     </td>
     <td>
-      <b>OneThing Studio</b> &nbsp;·&nbsp; Co-Founder &nbsp;·&nbsp; <a href="https://onething.studio">onething.studio</a><br>
+      <b>Onething Studio</b> &nbsp;·&nbsp; Co-Founder &nbsp;·&nbsp; <a href="https://onething.studio">onething.studio</a><br>
       <sub>Digital product studio. Ideas to shipped MVPs in 1 to 4 weeks.</sub>
     </td>
   </tr>
@@ -62,6 +62,7 @@
 | **Eat Good Club** | Health led food brand on a mission to make good food the new normal | Next.js · GSAP · Tailwind | [Live](https://www.eatgoodclub.com) |
 | **Skinature** | Premium natural skincare brand. A motion led storefront sitting on a full Supabase backend | Next.js · Supabase · Framer Motion | [Live](https://www.skinature.org) |
 | **Souq-E-Deccan** | Hyderabad's first online visual booking system for an expo, built out into a multi vendor marketplace with a full backend | Next.js · Supabase | [Live](https://www.souqedeccan.com/) |
+| **Hyderabad Hustlers** | Website for a Hyderabad media and podcast platform, covering podcasts, reels, events and a guest directory with profile pages opened from QR codes on Hustler Cards | Next.js · Tailwind | [Live](https://www.hyderabadhustlers.com) |
 | **ScrapKart** | India's industrial and retail scrap marketplace, B2B and consumer sides both | Next.js · TypeScript | [B2B](https://b2b.scrapkart.app) · [Retail](https://scrapkart.app) |
 | **Brandqraft** | Branding and digital marketing studio | Next.js · Framer Motion | [Live](https://brandqraft.co) |
 | **CyFi** | Bilingual (EN/AR) product site for a cybersecurity firm based in Saudi Arabia | React · Vite · i18next | [Live](https://cyfi.sa) |
@@ -123,7 +124,7 @@
 | **Shoaib Khan** | Content creator and entrepreneur | Next.js · GSAP | [Live](https://beingashoaib.com) |
 | **Sayeeda Jabri** | Co-founder, Hyderabad Hustlers | React · GSAP · Framer Motion | [Live](https://sayeedajabri.com) |
 | **Umar Shoaib** | A developer | Next.js · Gemini · Firebase | [Live](https://umarportfolio-chi.vercel.app/) |
-| **OneThing Studio** | Our Studio. MVPs in 1 to 4 weeks | React · Vite · Framer Motion | [Live](https://onething.studio) |
+| **Onething Studio** | Our Studio. MVPs in 1 to 4 weeks | React · Vite · Framer Motion | [Live](https://onething.studio) |
 
 </div>
 </details>
@@ -152,6 +153,28 @@ learning the framework from November 2023 onward, each committed on the day it w
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-light.svg?v=5">
   <img alt="Note: most repositories here are private because they hold client code. The work itself is public, every project above is live and the links go straight to it." src="https://raw.githubusercontent.com/DevShoaib78/DevShoaib78/main/assets/note-dark.svg?v=5" width="100%">
 </picture>
+<br>
+
+## 🌱 Open source
+
+16 pull requests to 8 open source projects since September 2026, and 13 of them are merged.
+
+<div align="center">
+
+| Project | What it is | Merged PRs |
+|---|---|---|
+| **[Spec Kitty](https://github.com/spec-kitty/spec-kitty)** | Command line tool for spec driven development with AI coding agents | [#4741](https://github.com/spec-kitty/spec-kitty/pull/4741) · [#4742](https://github.com/spec-kitty/spec-kitty/pull/4742) · [#4743](https://github.com/spec-kitty/spec-kitty/pull/4743) · [#4744](https://github.com/spec-kitty/spec-kitty/pull/4744) · [#4771](https://github.com/spec-kitty/spec-kitty/pull/4771) · [#4772](https://github.com/spec-kitty/spec-kitty/pull/4772) |
+| **[HyperDX](https://github.com/hyperdxio/hyperdx)** | Observability platform for logs, traces and session replays | [#3163](https://github.com/hyperdxio/hyperdx/pull/3163) |
+| **[Ubuntu App Center](https://github.com/ubuntu/app-center)** | Canonical's app store for the Ubuntu desktop, written in Flutter | [#2194](https://github.com/ubuntu/app-center/pull/2194) |
+| **[ONEARMY Community Platform](https://github.com/ONEARMY/community-platform)** | The platform behind Precious Plastic and the other One Army communities | [#4900](https://github.com/ONEARMY/community-platform/pull/4900) |
+| **[Silex](https://github.com/silexlabs/Silex)** | Free and libre visual website builder | [#1863](https://github.com/silexlabs/Silex/pull/1863) |
+| **[MiniSearch](https://github.com/felladrin/MiniSearch)** | Privacy focused web search assistant that runs AI in the browser | [#2696](https://github.com/felladrin/MiniSearch/pull/2696) · [#2697](https://github.com/felladrin/MiniSearch/pull/2697) |
+| **[SnapOtter](https://github.com/snapotter-hq/SnapOtter)** | Self hosted file processing: conversion, compression, OCR and transcription | [#1207](https://github.com/snapotter-hq/SnapOtter/pull/1207) |
+
+</div>
+
+Two more are in review at [Sentry's Dart and Flutter SDK](https://github.com/getsentry/sentry-dart).
+
 <br>
 
 ## 🛠️ What I build with
