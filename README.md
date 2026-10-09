@@ -155,28 +155,6 @@ learning the framework from November 2023 onward, each committed on the day it w
 </picture>
 <br>
 
-## 🌱 Open source
-
-16 pull requests to 8 open source projects since September 2026, and 13 of them are merged.
-
-<div align="center">
-
-| Project | What it is | Merged PRs |
-|---|---|---|
-| **[Spec Kitty](https://github.com/spec-kitty/spec-kitty)** | Command line tool for spec driven development with AI coding agents | [#4741](https://github.com/spec-kitty/spec-kitty/pull/4741) · [#4742](https://github.com/spec-kitty/spec-kitty/pull/4742) · [#4743](https://github.com/spec-kitty/spec-kitty/pull/4743) · [#4744](https://github.com/spec-kitty/spec-kitty/pull/4744) · [#4771](https://github.com/spec-kitty/spec-kitty/pull/4771) · [#4772](https://github.com/spec-kitty/spec-kitty/pull/4772) |
-| **[HyperDX](https://github.com/hyperdxio/hyperdx)** | Observability platform for logs, traces and session replays | [#3163](https://github.com/hyperdxio/hyperdx/pull/3163) |
-| **[Ubuntu App Center](https://github.com/ubuntu/app-center)** | Canonical's app store for the Ubuntu desktop, written in Flutter | [#2194](https://github.com/ubuntu/app-center/pull/2194) |
-| **[ONEARMY Community Platform](https://github.com/ONEARMY/community-platform)** | The platform behind Precious Plastic and the other One Army communities | [#4900](https://github.com/ONEARMY/community-platform/pull/4900) |
-| **[Silex](https://github.com/silexlabs/Silex)** | Free and libre visual website builder | [#1863](https://github.com/silexlabs/Silex/pull/1863) |
-| **[MiniSearch](https://github.com/felladrin/MiniSearch)** | Privacy focused web search assistant that runs AI in the browser | [#2696](https://github.com/felladrin/MiniSearch/pull/2696) · [#2697](https://github.com/felladrin/MiniSearch/pull/2697) |
-| **[SnapOtter](https://github.com/snapotter-hq/SnapOtter)** | Self hosted file processing: conversion, compression, OCR and transcription | [#1207](https://github.com/snapotter-hq/SnapOtter/pull/1207) |
-
-</div>
-
-Two more are in review at [Sentry's Dart and Flutter SDK](https://github.com/getsentry/sentry-dart).
-
-<br>
-
 ## 🛠️ What I build with
 
 ### Languages and markup
